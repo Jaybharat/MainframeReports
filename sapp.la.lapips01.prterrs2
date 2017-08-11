@@ -1,0 +1,297 @@
+           EDI TRANSLATION ERROR REPORT                      PAGE  0001                                                             
+           ENDICOTT - LATIN AMERICA SYSTEM                                                                                          
+           RUN DATE/TIME  170804      013016                                                                                        
+                                                                                                                                    
+ SAPP.LA.LAPIPS01.GDG850.G4231V00     te: 17/08/03   Time: 09:53:40 P                                                               
+                                                                                                                                    
+ ***** NO TRANSLATION ERRORS FOR THIS RUN *****                                                                                     
+                                                                                                                                    
+ ___________________________________________________________________________________________________                                
+                                                                                                                                    
+ SAPP.LA.LAPIPS01.GDG850.G4232V00     te: 17/08/03   Time: 09:53:43 P                                                               
+                                                                                                                                    
+ ***** NO TRANSLATION ERRORS FOR THIS RUN *****                                                                                     
+                                                                                                                                    
+ ___________________________________________________________________________________________________                                
+                                                                                                                                    
+ SAPP.LA.LAPIPS01.GDG850.G4232V00     te: 17/08/03   Time: 10:01:04 P                                                               
+                                                                                                                                    
+ ***** NO TRANSLATION ERRORS FOR THIS RUN *****                                                                                     
+                                                                                                                                    
+ ___________________________________________________________________________________________________                                
+                                                                                                                                    
+ SAPP.LA.LAPIPS01.GDG850.G4233V00     DATE: 17/08/03   TIME: 10:01:06                                                               
+                                                                                                                                    
+ ***** NO TRANSLATION ERRORS FOR THIS RUN *****                                                                                     
+                                                                                                                                    
+ ___________________________________________________________________________________________________                                
+                                                                                                                                    
+ SAPP.LA.LAPIPS01.GDG850.G4233V00     te: 17/08/03   Time: 11:00:48 P                                                               
+                                                                                                                                    
+ ***** NO TRANSLATION ERRORS FOR THIS RUN *****                                                                                     
+                                                                                                                                    
+ ___________________________________________________________________________________________________                                
+                                                                                                                                    
+ SAPP.LA.LAPIPS01.GDG850.G4234V00     DATE: 17/08/03   TIME: 11:00:50                                                               
+                                                                                                                                    
+ ***** NO TRANSLATION ERRORS FOR THIS RUN *****                                                                                     
+                                                                                                                                    
+ ___________________________________________________________________________________________________                                
+                                                                                                                                    
+ SAPP.LA.LAPIPS01.GDG850.G4234V00     te: 17/08/03   Time: 14:01:07 P                                                               
+                                                                                                                                    
+     Message: TR0820 Severity: 08                                                                                                   
+           EDI TRANSLATION ERROR REPORT                      PAGE  0002                                                             
+                                                                                                                                    
+                                                                                                                                    
+       SEND mapping definition not found for this trading partner transaction.  Internal Trading Partner ID = 631011000450646.      
+        Data Format = ECAXPO.  Processing Direction = SEND.  Usage indicator = PRODUCTION.                                          
+ FF0160 Transaction number 3 had a translation error, return code = 8 extended return code = 3.                                     
+                                                                                                                                    
+                   631011000450646       IBM77405              BORISLAVA ERANDITSOV                                                 
+                                                                                                                                    
+ ___________________________________________________________________________________________________                                
+     Message: TR0820 Severity: 08                                                                                                   
+       SEND mapping definition not found for this trading partner transaction.  Internal Trading Partner ID = 631011000450646.      
+        Data Format = ECAXPO.  Processing Direction = SEND.  Usage indicator = PRODUCTION.                                          
+ FF0160 Transaction number 4 had a translation error, return code = 8 extended return code = 3.                                     
+                                                                                                                                    
+                   631011000450646       IBM77406              BORISLAVA ERANDITSOV                                                 
+                                                                                                                                    
+ ___________________________________________________________________________________________________                                
+     Message: TR0820 Severity: 08                                                                                                   
+       SEND mapping definition not found for this trading partner transaction.  Internal Trading Partner ID = 631011000450646.      
+        Data Format = ECAXPO.  Processing Direction = SEND.  Usage indicator = PRODUCTION.                                          
+ FF0160 Transaction number 5 had a translation error, return code = 8 extended return code = 3.                                     
+                                                                                                                                    
+                   631011000450646       IBM77417              BORISLAVA ERANDITSOV                                                 
+                                                                                                                                    
+ ___________________________________________________________________________________________________                                
+     Message: TR0820 Severity: 08                                                                                                   
+       SEND mapping definition not found for this trading partner transaction.  Internal Trading Partner ID = 631011000450646.      
+        Data Format = ECAXPO.  Processing Direction = SEND.  Usage indicator = PRODUCTION.                                          
+ FF0160 Transaction number 6 had a translation error, return code = 8 extended return code = 3.                                     
+                                                                                                                                    
+                   631011000450646       IBM77418              BORISLAVA ERANDITSOV                                                 
+                                                                                                                                    
+ ___________________________________________________________________________________________________                                
+     Message: TR0820 Severity: 08                                                                                                   
+       SEND mapping definition not found for this trading partner transaction.  Internal Trading Partner ID = 631011000450646.      
+        Data Format = ECAXPO.  Processing Direction = SEND.  Usage indicator = PRODUCTION.                                          
+ FF0160 Transaction number 7 had a translation error, return code = 8 extended return code = 3.                                     
+                                                                                                                                    
+                   631011000450646       IBM77419              BORISLAVA ERANDITSOV                                                 
+                                                                                                                                    
+ ___________________________________________________________________________________________________                                
+     Message: TR0820 Severity: 08                                                                                                   
+       SEND mapping definition not found for this trading partner transaction.  Internal Trading Partner ID = 631011000450646.      
+           EDI TRANSLATION ERROR REPORT                      PAGE  0003                                                             
+                                                                                                                                    
+                                                                                                                                    
+        Data Format = ECAXPO.  Processing Direction = SEND.  Usage indicator = PRODUCTION.                                          
+ FF0160 Transaction number 8 had a translation error, return code = 8 extended return code = 3.                                     
+                                                                                                                                    
+                   631011000450646       IBM77420              BORISLAVA ERANDITSOV                                                 
+                                                                                                                                    
+ ___________________________________________________________________________________________________                                
+     Message: TR0820 Severity: 08                                                                                                   
+       SEND mapping definition not found for this trading partner transaction.  Internal Trading Partner ID = 631011000450646.      
+        Data Format = ECAXPO.  Processing Direction = SEND.  Usage indicator = PRODUCTION.                                          
+ FF0160 Transaction number 9 had a translation error, return code = 8 extended return code = 3.                                     
+                                                                                                                                    
+                   631011000450646       IBM77421              BORISLAVA ERANDITSOV                                                 
+                                                                                                                                    
+ ___________________________________________________________________________________________________                                
+     Message: TR0820 Severity: 08                                                                                                   
+       SEND mapping definition not found for this trading partner transaction.  Internal Trading Partner ID = 631011000450646.      
+        Data Format = ECAXPO.  Processing Direction = SEND.  Usage indicator = PRODUCTION.                                          
+ FF0160 Transaction number 10 had a translation error, return code = 8 extended return code = 3.                                    
+                                                                                                                                    
+                   631011000450646       IBM77422              BORISLAVA ERANDITSOV                                                 
+                                                                                                                                    
+ ___________________________________________________________________________________________________                                
+                                                                                                                                    
+ SAPP.LA.LAPIPS01.GDG850.G4235V00     te: 17/08/03   Time: 14:01:09 P                                                               
+                                                                                                                                    
+ ***** NO TRANSLATION ERRORS FOR THIS RUN *****                                                                                     
+                                                                                                                                    
+ ___________________________________________________________________________________________________                                
+                                                                                                                                    
+ SAPP.LA.LAPIPS01.GDG850.G4235V00     te: 17/08/03   Time: 16:01:04 P                                                               
+                                                                                                                                    
+     Message: RS0000 Severity: 12                                                                                                   
+       ****MODULE = EDIRSML , LINE = 476, SERVICE = DATABASE, FUNCTION = 504, CCB_RC = 8, CCB_ERC = 39                              
+     Message: RS0000 Severity: 12                                                                                                   
+       ****MODULE = EDIRSML , LINE = 476, SERVICE = DATABASE, FUNCTION = 504, CCB_RC = 8, CCB_ERC = 39                              
+     Message: TR0820 Severity: 08                                                                                                   
+       SEND mapping definition not found for this trading partner transaction.  Internal Trading Partner ID =                       
+       6130130682505970.  Data Format = ECAXPO.  Processing Direction = SEND.  Usage indicator = PRODUCTION.                        
+ FF0160 Transaction number 1 had a translation error, return code = 8 extended return code = 3.                                     
+                                                                                                                                    
+                   6130130682505970      A9XFGD01              IGNACIO POCIELLO                                                     
+           EDI TRANSLATION ERROR REPORT                      PAGE  0004                                                             
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+ ___________________________________________________________________________________________________                                
+     Message: RS0000 Severity: 12                                                                                                   
+       ****MODULE = EDIRSML , LINE = 476, SERVICE = DATABASE, FUNCTION = 504, CCB_RC = 8, CCB_ERC = 39                              
+     Message: TR0820 Severity: 08                                                                                                   
+       SEND mapping definition not found for this trading partner transaction.  Internal Trading Partner ID = 6310101771935.        
+       Data Format = ECAXPO.  Processing Direction = SEND.  Usage indicator = PRODUCTION.                                           
+ FF0160 Transaction number 2 had a translation error, return code = 8 extended return code = 3.                                     
+                                                                                                                                    
+                   6310101771935         A9X6QH01              ALLINE TERAN                                                         
+                                                                                                                                    
+ ___________________________________________________________________________________________________                                
+     Message: TR0820 Severity: 08                                                                                                   
+       SEND mapping definition not found for this trading partner transaction.  Internal Trading Partner ID = 6310101771935.        
+       Data Format = ECAXPO.  Processing Direction = SEND.  Usage indicator = PRODUCTION.                                           
+ FF0160 Transaction number 3 had a translation error, return code = 8 extended return code = 3.                                     
+                                                                                                                                    
+                   6310101771935         A9X8TB01              ALLINE TERAN                                                         
+                                                                                                                                    
+ ___________________________________________________________________________________________________                                
+     Message: RS0000 Severity: 12                                                                                                   
+       ****MODULE = EDIRSML , LINE = 476, SERVICE = DATABASE, FUNCTION = 504, CCB_RC = 8, CCB_ERC = 39                              
+     Message: TR0820 Severity: 08                                                                                                   
+       SEND mapping definition not found for this trading partner transaction.  Internal Trading Partner ID = 6310103746938.        
+       Data Format = ECAXPO.  Processing Direction = SEND.  Usage indicator = PRODUCTION.                                           
+ FF0160 Transaction number 4 had a translation error, return code = 8 extended return code = 3.                                     
+                                                                                                                                    
+                   6310103746938         A6XY2301              ANA PAULA MENEGHIN P                                                 
+                                                                                                                                    
+ ___________________________________________________________________________________________________                                
+     Message: TR0820 Severity: 08                                                                                                   
+       SEND mapping definition not found for this trading partner transaction.  Internal Trading Partner ID = 6310103746938.        
+       Data Format = ECAXPO.  Processing Direction = SEND.  Usage indicator = PRODUCTION.                                           
+ FF0160 Transaction number 5 had a translation error, return code = 8 extended return code = 3.                                     
+                                                                                                                                    
+                   6310103746938         A9WQ8Y01              ANA PAULA MENEGHIN P                                                 
+                                                                                                                                    
+ ___________________________________________________________________________________________________                                
+     Message: TR0820 Severity: 08                                                                                                   
+       SEND mapping definition not found for this trading partner transaction.  Internal Trading Partner ID = 6310103746938.        
+       Data Format = ECAXPO.  Processing Direction = SEND.  Usage indicator = PRODUCTION.                                           
+           EDI TRANSLATION ERROR REPORT                      PAGE  0005                                                             
+                                                                                                                                    
+                                                                                                                                    
+ FF0160 Transaction number 6 had a translation error, return code = 8 extended return code = 3.                                     
+                                                                                                                                    
+                   6310103746938         A9XDGZ01              ANA PAULA MENEGHIN P                                                 
+                                                                                                                                    
+ ___________________________________________________________________________________________________                                
+     Message: TR0820 Severity: 08                                                                                                   
+       SEND mapping definition not found for this trading partner transaction.  Internal Trading Partner ID = 6310103746938.        
+       Data Format = ECAXPO.  Processing Direction = SEND.  Usage indicator = PRODUCTION.                                           
+ FF0160 Transaction number 7 had a translation error, return code = 8 extended return code = 3.                                     
+                                                                                                                                    
+                   6310103746938         A9XDRZ01              ANA PAULA MENEGHIN P                                                 
+                                                                                                                                    
+ ___________________________________________________________________________________________________                                
+     Message: TR0820 Severity: 08                                                                                                   
+       SEND mapping definition not found for this trading partner transaction.  Internal Trading Partner ID = 6310103746938.        
+       Data Format = ECAXPO.  Processing Direction = SEND.  Usage indicator = PRODUCTION.                                           
+ FF0160 Transaction number 8 had a translation error, return code = 8 extended return code = 3.                                     
+                                                                                                                                    
+                   6310103746938         A9XDSH01              ANA PAULA MENEGHIN P                                                 
+                                                                                                                                    
+ ___________________________________________________________________________________________________                                
+     Message: TR0820 Severity: 08                                                                                                   
+       SEND mapping definition not found for this trading partner transaction.  Internal Trading Partner ID = 6310103746938.        
+       Data Format = ECAXPO.  Processing Direction = SEND.  Usage indicator = PRODUCTION.                                           
+ FF0160 Transaction number 9 had a translation error, return code = 8 extended return code = 3.                                     
+                                                                                                                                    
+                   6310103746938         A9XDVQ01              ANA PAULA MENEGHIN P                                                 
+                                                                                                                                    
+ ___________________________________________________________________________________________________                                
+     Message: TR0820 Severity: 08                                                                                                   
+       SEND mapping definition not found for this trading partner transaction.  Internal Trading Partner ID = 6310103746938.        
+       Data Format = ECAXPO.  Processing Direction = SEND.  Usage indicator = PRODUCTION.                                           
+ FF0160 Transaction number 10 had a translation error, return code = 8 extended return code = 3.                                    
+                                                                                                                                    
+                   6310103746938         A9XDVS01              ANA PAULA MENEGHIN P                                                 
+                                                                                                                                    
+ ___________________________________________________________________________________________________                                
+     Message: TR0820 Severity: 08                                                                                                   
+       SEND mapping definition not found for this trading partner transaction.  Internal Trading Partner ID = 6310103746938.        
+       Data Format = ECAXPO.  Processing Direction = SEND.  Usage indicator = PRODUCTION.                                           
+ FF0160 Transaction number 11 had a translation error, return code = 8 extended return code = 3.                                    
+           EDI TRANSLATION ERROR REPORT                      PAGE  0006                                                             
+                                                                                                                                    
+                                                                                                                                    
+                                                                                                                                    
+                   6310103746938         A9XD8401              ANA PAULA MENEGHIN P                                                 
+                                                                                                                                    
+ ___________________________________________________________________________________________________                                
+     Message: TR0820 Severity: 08                                                                                                   
+       SEND mapping definition not found for this trading partner transaction.  Internal Trading Partner ID = 6310103746938.        
+       Data Format = ECAXPO.  Processing Direction = SEND.  Usage indicator = PRODUCTION.                                           
+ FF0160 Transaction number 12 had a translation error, return code = 8 extended return code = 3.                                    
+                                                                                                                                    
+                   6310103746938         A9XD8402              ANA PAULA MENEGHIN P                                                 
+                                                                                                                                    
+ ___________________________________________________________________________________________________                                
+     Message: RS0000 Severity: 12                                                                                                   
+       ****MODULE = EDIRSML , LINE = 476, SERVICE = DATABASE, FUNCTION = 504, CCB_RC = 8, CCB_ERC = 39                              
+     Message: TR0820 Severity: 08                                                                                                   
+       SEND mapping definition not found for this trading partner transaction.  Internal Trading Partner ID = 6310172843212.        
+       Data Format = ECAXPO.  Processing Direction = SEND.  Usage indicator = PRODUCTION.                                           
+ FF0160 Transaction number 13 had a translation error, return code = 8 extended return code = 3.                                    
+                                                                                                                                    
+                   6310172843212         A9XF3501              LEONARDO SILVA DISLE                                                 
+                                                                                                                                    
+ ___________________________________________________________________________________________________                                
+     Message: RS0000 Severity: 12                                                                                                   
+       ****MODULE = EDIRSML , LINE = 476, SERVICE = DATABASE, FUNCTION = 504, CCB_RC = 8, CCB_ERC = 39                              
+     Message: TR0820 Severity: 08                                                                                                   
+       SEND mapping definition not found for this trading partner transaction.  Internal Trading Partner ID = 78105Y81222.          
+       Data Format = ECAXPO.  Processing Direction = SEND.  Usage indicator = PRODUCTION.                                           
+ FF0160 Transaction number 14 had a translation error, return code = 8 extended return code = 3.                                    
+                                                                                                                                    
+                   78105Y81222           A9XF4C01              KAREN LORENA HERNAND                                                 
+                                                                                                                                    
+ ___________________________________________________________________________________________________                                
+                                                                                                                                    
+ SAPP.LA.LAPIPS01.GDG850.G4236V00     te: 17/08/03   Time: 16:11:11 P                                                               
+                                                                                                                                    
+ ***** NO TRANSLATION ERRORS FOR THIS RUN *****                                                                                     
+                                                                                                                                    
+ ___________________________________________________________________________________________________                                
+                                                                                                                                    
+ SAPP.LA.LAPIPS01.GDG850.G4236V00     te: 17/08/03   Time: 18:01:10 P                                                               
+                                                                                                                                    
+           EDI TRANSLATION ERROR REPORT                      PAGE  0007                                                             
+                                                                                                                                    
+                                                                                                                                    
+ ***** NO TRANSLATION ERRORS FOR THIS RUN *****                                                                                     
+                                                                                                                                    
+ ___________________________________________________________________________________________________                                
+                                                                                                                                    
+ SAPP.LA.LAPIPS01.GDG850.G4237V00     te: 17/08/03   Time: 18:01:13 P                                                               
+                                                                                                                                    
+ ***** NO TRANSLATION ERRORS FOR THIS RUN *****                                                                                     
+                                                                                                                                    
+ ___________________________________________________________________________________________________                                
+                                                                                                                                    
+ SAPP.LA.LAPIPS01.GDG850.G4237V00     te: 17/08/03   Time: 20:00:33 P                                                               
+                                                                                                                                    
+     Message: RS0000 Severity: 12                                                                                                   
+       ****MODULE = EDIRSML , LINE = 476, SERVICE = DATABASE, FUNCTION = 504, CCB_RC = 8, CCB_ERC = 39                              
+     Message: RS0000 Severity: 12                                                                                                   
+       ****MODULE = EDIRSML , LINE = 476, SERVICE = DATABASE, FUNCTION = 504, CCB_RC = 8, CCB_ERC = 39                              
+     Message: TR0820 Severity: 08                                                                                                   
+       SEND mapping definition not found for this trading partner transaction.  Internal Trading Partner ID = 661018001057065.      
+        Data Format = ECAXPO.  Processing Direction = SEND.  Usage indicator = PRODUCTION.                                          
+ FF0160 Transaction number 1 had a translation error, return code = 8 extended return code = 3.                                     
+                                                                                                                                    
+                   661018001057065       A9WTY701              NATHALIA CAROLINA MA                                                 
+                                                                                                                                    
+ ___________________________________________________________________________________________________                                
+                                                                                                                                    
+ SAPP.LA.LAPIPS01.GDG850.G4238V00     te: 17/08/03   Time: 20:03:41 P                                                               
+                                                                                                                                    
+ ***** NO TRANSLATION ERRORS FOR THIS RUN *****                                                                                     
+                                                                                                                                    
+ ___________________________________________________________________________________________________                                
+*** END OF REPORT *** *** END OF REPORT *** *** END OF REPORT ***                                                                   
